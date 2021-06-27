@@ -1,2 +1,0 @@
-Given a string S, remove consecutive duplicates from it recursively.(do recursively)
-eg:aabccba -> abcba
