@@ -1,4 +1,0 @@
-Given a sorted array A of size N, delete all the duplicates elements from A.
-eg: N = 5
-Array = {2, 2, 2, 2, 2}
-Output: 2
